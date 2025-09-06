@@ -10,7 +10,7 @@ body {
 }
 
 body {
-  background-color: pink;
+  background-color: rgb(255, 223, 228);
   display: flex;
   justify-content: center;
   align-items: center;
